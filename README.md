@@ -1,19 +1,19 @@
 <!--START_SECTION:wakayearly-->
 
 ```txt
-From: 05 September 2024 - To: 05 September 2025
+From: 06 September 2024 - To: 06 September 2025
 
-Total Time: 1,050 hrs 38 mins
+Total Time: 1,052 hrs 13 mins
 
-Go                         230 hrs 4 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
-C#                         189 hrs 5 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
-Vue.js                     153 hrs 40 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 %
-TypeScript                 96 hrs 33 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
-C                          73 hrs 33 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-JavaScript                 63 hrs 7 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
-Lua                        52 hrs 18 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-JSON                       37 hrs 26 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-Other                      25 hrs 17 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Go                         230 hrs 4 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.87 %
+C#                         189 hrs 4 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
+Vue.js                     153 hrs 40 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.61 %
+TypeScript                 96 hrs 33 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+C                          75 hrs 49 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
+JavaScript                 63 hrs 7 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+Lua                        52 hrs 18 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+JSON                       37 hrs 19 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+Other                      25 hrs 17 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
 ```
 
 <!--END_SECTION:wakayearly-->
