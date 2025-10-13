@@ -5,16 +5,18 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 03 October 2025 - To: 10 October 2025
+From: 04 October 2025 - To: 11 October 2025
 
-Total Time: 7 hrs 51 mins
+Total Time: 12 hrs 55 mins
 
-hyprlang       4 hrs 45 mins   ███████████████▒░░░░░░░░░   60.69 %
-Bash           37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
-YAML           27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-tmux           22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-dosini         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-Other          17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+hyprlang       5 hrs 17 mins   ██████████▒░░░░░░░░░░░░░░   40.94 %
+C#             2 hrs 26 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.84 %
+Lua            48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+Bash           46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+JSON           43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+YAML           36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+tmux           32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+Other          27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
 ```
 
 <!--END_SECTION:wakaweekly-->
