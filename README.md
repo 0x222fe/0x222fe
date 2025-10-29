@@ -5,19 +5,18 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 19 October 2025 - To: 26 October 2025
+From: 20 October 2025 - To: 27 October 2025
 
-Total Time: 22 hrs 57 mins
+Total Time: 23 hrs 13 mins
 
-Go           10 hrs 33 mins  ███████████▓░░░░░░░░░░░░░   46.00 %
-Vue.js       5 hrs 21 mins   ██████░░░░░░░░░░░░░░░░░░░   23.36 %
-TypeScript   1 hr 50 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
-JavaScript   1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-C#           58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
-Lua          55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-C            34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-JSON         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-Other        20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Go           8 hrs 50 mins   █████████▓░░░░░░░░░░░░░░░   38.09 %
+Vue.js       7 hrs 4 mins    ███████▓░░░░░░░░░░░░░░░░░   30.47 %
+TypeScript   1 hr 54 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+C#           1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+JavaScript   1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+Lua          1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+JSON         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Other        20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:wakaweekly-->
