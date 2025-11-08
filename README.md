@@ -5,16 +5,16 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 29 October 2025 - To: 05 November 2025
+From: 30 October 2025 - To: 06 November 2025
 
-Total Time: 9 hrs 53 mins
+Total Time: 12 hrs 23 mins
 
-C#           2 hrs 50 mins   ███████▒░░░░░░░░░░░░░░░░░   28.75 %
-Go           2 hrs 41 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.29 %
-sh           1 hr 40 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.01 %
-JSON         45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-hyprlang     33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
-Other        21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+C#           3 hrs 39 mins   ███████▒░░░░░░░░░░░░░░░░░   29.49 %
+sh           1 hr 53 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 %
+Go           1 hr 48 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.53 %
+JSON         1 hr 18 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
+Vue.js       1 hr 14 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+Other        1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
 ```
 
 <!--END_SECTION:wakaweekly-->
