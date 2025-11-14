@@ -5,14 +5,14 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 04 November 2025 - To: 11 November 2025
+From: 05 November 2025 - To: 12 November 2025
 
-Total Time: 17 hrs 2 mins
+Total Time: 17 hrs
 
-C#           5 hrs 2 mins    ███████▒░░░░░░░░░░░░░░░░░   29.57 %
-Vue.js       4 hrs 43 mins   ███████░░░░░░░░░░░░░░░░░░   27.77 %
-Go           1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
-Other        1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
+Vue.js       5 hrs 12 mins   ███████▓░░░░░░░░░░░░░░░░░   30.62 %
+C#           4 hrs 52 mins   ███████░░░░░░░░░░░░░░░░░░   28.63 %
+Go           2 hrs 52 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.91 %
+Other        51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
 ```
 
 <!--END_SECTION:wakaweekly-->
