@@ -5,14 +5,20 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 05 November 2025 - To: 12 November 2025
+From: 06 November 2025 - To: 13 November 2025
 
-Total Time: 17 hrs
+Total Time: 16 hrs 44 mins
 
-Vue.js       5 hrs 12 mins   ███████▓░░░░░░░░░░░░░░░░░   30.62 %
-C#           4 hrs 52 mins   ███████░░░░░░░░░░░░░░░░░░   28.63 %
-Go           2 hrs 52 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.91 %
-Other        51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+C#           6 hrs 11 mins   █████████▒░░░░░░░░░░░░░░░   36.99 %
+Go           4 hrs 8 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.74 %
+Vue.js       4 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   24.33 %
+JavaScript   36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+Bash         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+hyprlang     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+sshconfig    13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Lua          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+sh           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:wakaweekly-->
