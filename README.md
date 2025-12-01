@@ -5,11 +5,11 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 21 November 2025 - To: 28 November 2025
+From: 22 November 2025 - To: 29 November 2025
 
-Total Time: 30 hrs 43 mins
+Total Time: 30 hrs 42 mins
 
-C#           26 hrs 20 mins  █████████████████████▒░░░   85.74 %
+C#           26 hrs 20 mins  █████████████████████▒░░░   85.77 %
 JavaScript   50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
 JSON         48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 Vue.js       45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
