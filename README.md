@@ -5,7 +5,7 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 03 December 2025 - To: 10 December 2025
+From: 04 December 2025 - To: 11 December 2025
 
 Total Time: 8 hrs 13 mins
 
