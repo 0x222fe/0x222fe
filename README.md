@@ -5,17 +5,20 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 04 December 2025 - To: 11 December 2025
+From: 06 December 2025 - To: 13 December 2025
 
-Total Time: 8 hrs 13 mins
+Total Time: 3 hrs 57 mins
 
-C#           4 hrs 31 mins   █████████████▓░░░░░░░░░░░   54.97 %
-JSON         57 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
-JavaScript   48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
-TypeScript   39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-Vue.js       33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-Bash         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-Other        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+C#           1 hr 21 mins    ████████▓░░░░░░░░░░░░░░░░   34.20 %
+JSON         57 mins         ██████░░░░░░░░░░░░░░░░░░░   24.03 %
+TypeScript   36 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.30 %
+Vue.js       25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
+JavaScript   19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+SCSS         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+Java         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+gitignore    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:wakaweekly-->
