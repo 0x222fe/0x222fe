@@ -5,17 +5,17 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 01 January 2026 - To: 08 January 2026
+From: 02 January 2026 - To: 09 January 2026
 
-Total Time: 12 hrs 35 mins
+Total Time: 14 hrs 27 mins
 
-C#           5 hrs 27 mins   ███████████░░░░░░░░░░░░░░   43.37 %
-TypeScript   2 hrs 34 mins   █████░░░░░░░░░░░░░░░░░░░░   20.49 %
-JavaScript   48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-Vue.js       32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-Java         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-SQL          29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-Other        26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+C#           7 hrs 12 mins   ████████████▒░░░░░░░░░░░░   49.80 %
+TypeScript   2 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.84 %
+JavaScript   48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Vue.js       32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Java         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+SQL          29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Other        26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
 ```
 
 <!--END_SECTION:wakaweekly-->
