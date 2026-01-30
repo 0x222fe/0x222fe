@@ -5,18 +5,18 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 20 January 2026 - To: 27 January 2026
+From: 22 January 2026 - To: 29 January 2026
 
-Total Time: 14 hrs 11 mins
+Total Time: 24 hrs 11 mins
 
-C#           6 hrs 39 mins   ███████████▓░░░░░░░░░░░░░   46.89 %
-Vue.js       5 hrs 50 mins   ██████████▒░░░░░░░░░░░░░░   41.14 %
-TypeScript   47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
-JavaScript   37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-conf         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Vue.js       14 hrs 41 mins  ███████████████▒░░░░░░░░░   60.77 %
+C#           7 hrs 30 mins   ███████▓░░░░░░░░░░░░░░░░░   31.08 %
+JavaScript   53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+TypeScript   47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+conf         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:wakaweekly-->
