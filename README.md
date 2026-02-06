@@ -5,20 +5,20 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 27 January 2026 - To: 03 February 2026
+From: 28 January 2026 - To: 04 February 2026
 
-Total Time: 22 hrs 6 mins
+Total Time: 22 hrs 5 mins
 
-Vue.js       12 hrs 58 mins  ██████████████▓░░░░░░░░░░   58.71 %
-C#           7 hrs 36 mins   ████████▓░░░░░░░░░░░░░░░░   34.38 %
-JavaScript   51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+Vue.js       14 hrs 4 mins   ████████████████░░░░░░░░░   63.75 %
+C#           6 hrs 41 mins   ███████▓░░░░░░░░░░░░░░░░░   30.29 %
+JavaScript   38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
 Go           20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 Text         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 jsonc        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 gitignore    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:wakaweekly-->
