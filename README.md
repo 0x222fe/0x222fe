@@ -5,16 +5,14 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 02 February 2026 - To: 09 February 2026
+From: 03 February 2026 - To: 10 February 2026
 
-Total Time: 20 hrs 2 mins
+Total Time: 20 hrs 19 mins
 
-Vue.js       12 hrs 31 mins  ███████████████▓░░░░░░░░░   62.52 %
-C#           5 hrs 58 mins   ███████▒░░░░░░░░░░░░░░░░░   29.83 %
-JSON         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-JavaScript   29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-Go           20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Text         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Vue.js       14 hrs 41 mins  ██████████████████░░░░░░░   72.26 %
+C#           4 hrs 25 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.75 %
+JSON         37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+JavaScript   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
 Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
