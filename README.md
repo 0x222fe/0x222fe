@@ -5,7 +5,7 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 17 February 2026 - To: 24 February 2026
+From: 18 February 2026 - To: 25 February 2026
 
 Total Time: 4 hrs 36 mins
 
