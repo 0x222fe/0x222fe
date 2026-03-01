@@ -5,17 +5,17 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 19 February 2026 - To: 26 February 2026
+From: 20 February 2026 - To: 27 February 2026
 
-Total Time: 7 hrs 3 mins
+Total Time: 8 hrs 31 mins
 
-Vue.js       3 hrs 20 mins         ███████████▓░░░░░░░░░░░░░   47.26 %
-C#           2 hrs 10 mins         ███████▓░░░░░░░░░░░░░░░░░   30.70 %
-JSON         23 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
-JavaScript   18 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-hyprlang     15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-Bash         9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-Other        7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Vue.js       4 hrs 21 mins         ████████████▓░░░░░░░░░░░░   51.15 %
+C#           2 hrs 31 mins         ███████▒░░░░░░░░░░░░░░░░░   29.66 %
+JSON         23 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+JavaScript   22 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+hyprlang     15 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Bash         9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Other        7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:wakaweekly-->
