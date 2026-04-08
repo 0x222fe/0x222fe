@@ -5,16 +5,16 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 29 March 2026 - To: 05 April 2026
+From: 30 March 2026 - To: 06 April 2026
 
-Total Time: 20 hrs 18 mins
+Total Time: 16 hrs 31 mins
 
-Vue.js       8 hrs 33 mins         ██████████▓░░░░░░░░░░░░░░   42.13 %
-C#           8 hrs 18 mins         ██████████▒░░░░░░░░░░░░░░   40.86 %
-JavaScript   1 hr 3 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-Java         1 hr                  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-JSON         36 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-Other        19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Vue.js       7 hrs 8 mins          ██████████▓░░░░░░░░░░░░░░   43.21 %
+C#           6 hrs 44 mins         ██████████▒░░░░░░░░░░░░░░   40.82 %
+JavaScript   57 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+JSON         36 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Java         27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Other        19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 ```
 
 <!--END_SECTION:wakaweekly-->
