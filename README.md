@@ -5,14 +5,14 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 01 April 2026 - To: 08 April 2026
+From: 02 April 2026 - To: 09 April 2026
 
-Total Time: 13 hrs 58 mins
+Total Time: 15 hrs 47 mins
 
-C#           8 hrs 39 mins         ███████████████▒░░░░░░░░░   61.99 %
-Vue.js       3 hrs 5 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.11 %
-JavaScript   1 hr 2 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
-Other        20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+C#           9 hrs 37 mins         ███████████████▒░░░░░░░░░   60.97 %
+Vue.js       3 hrs 55 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.82 %
+JavaScript   1 hr 13 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
+Other        20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
 ```
 
 <!--END_SECTION:wakaweekly-->
