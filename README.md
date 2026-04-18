@@ -5,17 +5,18 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 08 April 2026 - To: 15 April 2026
+From: 09 April 2026 - To: 16 April 2026
 
-Total Time: 22 hrs 39 mins
+Total Time: 20 hrs 47 mins
 
-C#           10 hrs 57 mins        ████████████░░░░░░░░░░░░░   48.35 %
-Vue.js       8 hrs 12 mins         █████████░░░░░░░░░░░░░░░░   36.24 %
-Vue          2 hrs 7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
-JavaScript   1 hr 2 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-JSON         16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-Go           2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+C#           9 hrs 21 mins         ███████████▒░░░░░░░░░░░░░   44.86 %
+Vue.js       8 hrs 14 mins         ██████████░░░░░░░░░░░░░░░   39.55 %
+Vue          1 hr 25 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+JavaScript   1 hr                  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+JSON         29 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Bash         19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+XML          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:wakaweekly-->
