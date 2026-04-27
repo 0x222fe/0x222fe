@@ -5,17 +5,16 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 17 April 2026 - To: 24 April 2026
+From: 19 April 2026 - To: 26 April 2026
 
-Total Time: 24 hrs 32 mins
+Total Time: 27 hrs 9 mins
 
-C#           10 hrs 19 mins        ██████████▓░░░░░░░░░░░░░░   42.06 %
-Markdown     4 hrs 31 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
-JSON         3 hrs 44 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.25 %
-SQL          1 hr 33 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-Go           1 hr 10 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-TypeScript   55 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-Other        48 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+C#           11 hrs 15 mins        ██████████▒░░░░░░░░░░░░░░   41.48 %
+Markdown     5 hrs 10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
+JSON         4 hrs 2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
+TypeScript   2 hrs 4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+SQL          1 hr 32 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+Other        1 hr 6 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
 ```
 
 <!--END_SECTION:wakaweekly-->
