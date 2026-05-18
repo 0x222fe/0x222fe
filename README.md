@@ -5,13 +5,14 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 08 May 2026 - To: 15 May 2026
+From: 10 May 2026 - To: 17 May 2026
 
-Total Time: 25 hrs 56 mins
+Total Time: 22 hrs 57 mins
 
-C#           7 hrs 28 mins         ███████▒░░░░░░░░░░░░░░░░░   28.83 %
-Vue          7 hrs 9 mins          ███████░░░░░░░░░░░░░░░░░░   27.61 %
-Other        2 hrs 51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
+Vue          6 hrs 43 mins         ███████▒░░░░░░░░░░░░░░░░░   29.26 %
+C#           5 hrs 41 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.76 %
+TypeScript   2 hrs 46 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
+Other        2 hrs 36 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
 ```
 
 <!--END_SECTION:wakaweekly-->
