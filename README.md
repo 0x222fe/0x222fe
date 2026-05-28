@@ -5,19 +5,18 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 18 May 2026 - To: 25 May 2026
+From: 19 May 2026 - To: 26 May 2026
 
-Total Time: 20 hrs 2 mins
+Total Time: 19 hrs 23 mins
 
-C#                                 6 hrs 56 mins         ████████▓░░░░░░░░░░░░░░░░   34.66 %
-Vue                                4 hrs 6 mins          █████░░░░░░░░░░░░░░░░░░░░   20.49 %
-Java                               1 hr 24 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
-Markdown                           1 hr 17 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
-JavaScript                         1 hr 12 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-TypeScript                         1 hr 10 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-JSON                               57 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-YAML                               41 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-Other                              37 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+C#                                 8 hrs 40 mins         ███████████▒░░░░░░░░░░░░░   44.73 %
+Vue                                3 hrs 58 mins         █████░░░░░░░░░░░░░░░░░░░░   20.48 %
+Markdown                           1 hr 57 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+TypeScript                         1 hr 9 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+JavaScript                         58 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+JSON                               42 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+Python                             27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Other                              20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 ```
 
 <!--END_SECTION:wakaweekly-->
