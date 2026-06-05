@@ -5,17 +5,15 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 25 May 2026 - To: 01 June 2026
+From: 28 May 2026 - To: 04 June 2026
 
-Total Time: 16 hrs 18 mins
+Total Time: 12 hrs 50 mins
 
-C#           10 hrs 3 mins         ███████████████▒░░░░░░░░░   61.65 %
-Rust         2 hrs 6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
-Vue          1 hr 8 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
-Markdown     37 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-Bash         34 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-JavaScript   31 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-Other        27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Rust         4 hrs 45 mins         █████████▒░░░░░░░░░░░░░░░   37.02 %
+C#           2 hrs 23 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.61 %
+Vue          2 hrs 15 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.64 %
+JavaScript   45 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+Other        38 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
 ```
 
 <!--END_SECTION:wakaweekly-->
