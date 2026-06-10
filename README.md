@@ -5,15 +5,16 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 31 May 2026 - To: 07 June 2026
+From: 01 June 2026 - To: 08 June 2026
 
-Total Time: 10 hrs 16 mins
+Total Time: 5 hrs 46 mins
 
-Rust         4 hrs 33 mins         ███████████░░░░░░░░░░░░░░   44.40 %
-Vue          1 hr 33 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 %
-C#           1 hr 3 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
-JavaScript   39 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-Other        38 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+Rust         2 hrs 47 mins         ████████████░░░░░░░░░░░░░   48.15 %
+Vue          1 hr 21 mins          ██████░░░░░░░░░░░░░░░░░░░   23.64 %
+Markdown     28 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+TOML         23 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+JavaScript   23 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+Other        18 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
 ```
 
 <!--END_SECTION:wakaweekly-->
