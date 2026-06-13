@@ -5,17 +5,17 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 02 June 2026 - To: 09 June 2026
+From: 05 June 2026 - To: 12 June 2026
 
-Total Time: 5 hrs 49 mins
+Total Time: 11 hrs 19 mins
 
-Vue          2 hrs 16 mins         █████████▓░░░░░░░░░░░░░░░   39.24 %
-Rust         1 hr 6 mins           ████▓░░░░░░░░░░░░░░░░░░░░   18.99 %
-JavaScript   36 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
-Java         34 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
-Markdown     24 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
-TOML         23 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
-Other        17 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+Vue          3 hrs 46 mins         ████████▒░░░░░░░░░░░░░░░░   33.27 %
+Java         3 hrs 29 mins         ███████▓░░░░░░░░░░░░░░░░░   30.84 %
+JavaScript   1 hr 8 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
+C#           49 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+Markdown     30 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+JSON         25 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Other        14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 ```
 
 <!--END_SECTION:wakaweekly-->
