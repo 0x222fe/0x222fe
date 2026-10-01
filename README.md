@@ -5,14 +5,13 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 21 September 2026 - To: 28 September 2026
+From: 22 September 2026 - To: 29 September 2026
 
-Total Time: 9 hrs 56 mins
+Total Time: 9 hrs 13 mins
 
-Rust         2 hrs 25 mins         ██████░░░░░░░░░░░░░░░░░░░   24.41 %
-Markdown     1 hr 46 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
-C#           1 hr 28 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
-Other        1 hr 21 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
+C#           2 hrs 41 mins         ███████▒░░░░░░░░░░░░░░░░░   29.22 %
+Markdown     1 hr 22 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
+Other        1 hr 12 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
 ```
 
 <!--END_SECTION:wakaweekly-->
