@@ -5,13 +5,12 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 23 September 2026 - To: 30 September 2026
+From: 24 September 2026 - To: 01 October 2026
 
-Total Time: 9 hrs 31 mins
+Total Time: 8 hrs
 
-C#           4 hrs 48 mins         ████████████▓░░░░░░░░░░░░   50.46 %
-Markdown     1 hr 33 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
-Other        1 hr 12 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
+C#           4 hrs 21 mins         █████████████▓░░░░░░░░░░░   54.46 %
+Other        1 hr 12 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 %
 ```
 
 <!--END_SECTION:wakaweekly-->
