@@ -5,15 +5,14 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 01 October 2026 - To: 08 October 2026
+From: 02 October 2026 - To: 09 October 2026
 
-Total Time: 3 hrs 43 mins
+Total Time: 6 hrs 36 mins
 
-C#           2 hrs 7 mins          ██████████████▒░░░░░░░░░░   56.86 %
-Markdown     1 hr 10 mins          ████████░░░░░░░░░░░░░░░░░   31.58 %
-XML          15 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
-Git Config   10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
-JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+C#           3 hrs 10 mins         ████████████░░░░░░░░░░░░░   48.13 %
+Markdown     2 hrs 14 mins         ████████▒░░░░░░░░░░░░░░░░   33.99 %
+XML          31 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
+Other        13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
 ```
 
 <!--END_SECTION:wakaweekly-->
