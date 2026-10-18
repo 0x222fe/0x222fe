@@ -5,12 +5,12 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 09 October 2026 - To: 16 October 2026
+From: 10 October 2026 - To: 17 October 2026
 
-Total Time: 27 hrs 38 mins
+Total Time: 21 hrs 24 mins
 
-C#           14 hrs 33 mins        █████████████▒░░░░░░░░░░░   52.70 %
-Other        3 hrs 18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
+C#           10 hrs 48 mins        ████████████▓░░░░░░░░░░░░   50.44 %
+Other        2 hrs 22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
 ```
 
 <!--END_SECTION:wakaweekly-->
