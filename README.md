@@ -5,13 +5,14 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 03 November 2026 - To: 10 November 2026
+From: 04 November 2026 - To: 11 November 2026
 
-Total Time: 32 hrs 24 mins
+Total Time: 34 hrs 2 mins
 
-Rust                               4 hrs 47 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 %
-JavaScript                         4 hrs 43 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
-Other                              3 hrs 7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
+JavaScript                         5 hrs 29 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
+Rust                               3 hrs 51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
+C#                                 3 hrs 6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
+Other                              3 hrs 3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
 ```
 
 <!--END_SECTION:wakaweekly-->
