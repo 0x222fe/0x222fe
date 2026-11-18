@@ -5,19 +5,18 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 09 November 2026 - To: 16 November 2026
+From: 10 November 2026 - To: 17 November 2026
 
-Total Time: 39 hrs
+Total Time: 39 hrs 16 mins
 
-C#                                 6 hrs 19 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.19 %
-Markdown                           5 hrs 16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
-JavaScript                         5 hrs 12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 %
-Vue                                4 hrs 14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
-QML                                3 hrs 5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
-TypeScript                         2 hrs 58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
-Rust                               2 hrs 26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-JSON                               2 hrs 24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
-Other                              1 hr 51 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+JavaScript    6 hrs 16 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
+TypeScript    5 hrs 29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
+C#            5 hrs                 ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
+Markdown      4 hrs 50 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
+Vue           4 hrs 14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
+QML           3 hrs 51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
+JSON          2 hrs 20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+Other         2 hrs 8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
 ```
 
 <!--END_SECTION:wakaweekly-->
