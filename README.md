@@ -5,14 +5,13 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 13 November 2026 - To: 20 November 2026
+From: 14 November 2026 - To: 21 November 2026
 
-Total Time: 34 hrs 47 mins
+Total Time: 26 hrs 33 mins
 
-Markdown      6 hrs 7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.61 %
-C#            6 hrs 3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.39 %
-QML           4 hrs 15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
-Other         4 hrs 10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 %
+C#            5 hrs 36 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.09 %
+Markdown      4 hrs 45 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
+Other         3 hrs 30 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
 ```
 
 <!--END_SECTION:wakaweekly-->
