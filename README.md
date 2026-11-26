@@ -5,13 +5,13 @@
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 17 November 2026 - To: 24 November 2026
+From: 18 November 2026 - To: 25 November 2026
 
-Total Time: 19 hrs 2 mins
+Total Time: 20 hrs 57 mins
 
-C#            5 hrs 43 mins         ███████▓░░░░░░░░░░░░░░░░░   30.10 %
-Vue           4 hrs 29 mins         ██████░░░░░░░░░░░░░░░░░░░   23.58 %
-Other         3 hrs 15 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.08 %
+C#            5 hrs 42 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.25 %
+Vue           4 hrs 34 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.80 %
+Other         4 hrs 28 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.31 %
 ```
 
 <!--END_SECTION:wakaweekly-->
